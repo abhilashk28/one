@@ -10,7 +10,7 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Welcome to Furniture Shop</h1>
+      <h1>I love you Sahithya</h1>
       <p>Perfect portal for your nneds</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
