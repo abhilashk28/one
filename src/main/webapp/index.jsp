@@ -54,7 +54,9 @@
     <h2>Contact Us</h2>
     <form id="contact-form">
       <input type="text" id="name" placeholder="Your Name" required>
-      <input type="email" id="email" placeholder="Your Email" required>
+      <label for="email">Email Address:</label>
+<input type="email" id="email" placeholder="Your Email" required>
+
       <textarea id="message" placeholder="Your Message" required></textarea>
       <button type="submit">Send Message</button>
     </form>
